@@ -5,3 +5,11 @@
 <p>Mandi se hu, ab web development sikh raha hu.</p>
 </body>
 </html>
+<html>
+<head><title>Abhi ki Website</title></head>
+<body style="background: #0a0a23; color: white; text-align: center; font-family: sans-serif; padding-top: 50px;">
+  <h1 style="color: #00ffcc;">Main Abhi hu - BCA 1st Year</h1>
+  <p>Mandi se hu, ab web development sikh raha hu.</p>
+  <p style="background: white; color: black; display: inline-block; padding: 10px 20px; border-radius: 20px;">Ye meri pehli website hai!</p>
+</body>
+</html>
